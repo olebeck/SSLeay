@@ -1,1 +1,1 @@
-../crypto/md/md2test.c
+../crypto/md2/md2test.c
